@@ -1,0 +1,2 @@
+! удаление мусора от яндекса в результатах поиска на duckduckgo
+duckduckgo.com##.result.results_links_deep.highlight_d:-abp-contains(/(data-domain\=)|(.*yandex.*|.*ya\.ru)/)
